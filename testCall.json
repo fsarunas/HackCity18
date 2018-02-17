@@ -1,7 +1,7 @@
 [
-    {
-        "action": "talk",
-        "voiceName": "Russell",
-        "text": "Hi hi hi hi hi hi hi hi hi hi hi hi hi hi hi hi hi hi hi hi hi hi"
-    }
+  {
+  "action": "conversation",
+  "name": "nexmo-conference-standard",
+  "record": "true"
+  }
 ]
